@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/github-user-contribution.svg" />
+  <img src="github-user-contribution.svg" />
 </div>
  
 <table><tr><td valign="top" width="33%">
